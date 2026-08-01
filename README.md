@@ -32,15 +32,6 @@ A modern and responsive **Health & Fitness Tracker** built using **HTML, CSS, an
 
 ## 📂 Project Structure
 
-```
-Health-Fitness-Tracker/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-```
-
-> If all your code is inside a single HTML file, simply keep:
 
 ```
 Health-Fitness-Tracker/
