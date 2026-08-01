@@ -58,6 +58,7 @@ No installation or server is required.
 ---
 
 ## 📸 Screenshot
+![alt text](image.png)
 
 Add screenshots of your project here.
 
